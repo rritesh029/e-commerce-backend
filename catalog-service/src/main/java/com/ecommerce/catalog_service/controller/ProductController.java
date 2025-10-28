@@ -1,4 +1,4 @@
-package com.ecommerce.catalogservice.controller;
+package com.ecommerce.catalog_service.controller;
 
 import com.ecommerce.catalogservice.model.Product;
 import com.ecommerce.catalogservice.service.ProductService;

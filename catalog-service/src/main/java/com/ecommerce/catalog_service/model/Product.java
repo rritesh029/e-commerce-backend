@@ -1,4 +1,4 @@
-package com.ecommerce.catalogservice.model;
+package com.ecommerce.catalog_service.model;
 
 import jakarta.persistence.*;
 import lombok.*;

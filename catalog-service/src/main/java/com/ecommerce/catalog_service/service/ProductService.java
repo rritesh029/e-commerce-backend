@@ -1,4 +1,4 @@
-package com.ecommerce.catalogservice.service;
+package com.ecommerce.catalog_service.service;
 
 import com.ecommerce.catalogservice.model.Product;
 import com.ecommerce.catalogservice.repository.ProductRepository;
