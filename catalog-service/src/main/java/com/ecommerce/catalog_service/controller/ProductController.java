@@ -1,7 +1,7 @@
 package com.ecommerce.catalog_service.controller;
 
-import com.ecommerce.catalogservice.model.Product;
-import com.ecommerce.catalogservice.service.ProductService;
+import com.ecommerce.catalog_service.model.Product;
+import com.ecommerce.catalog_service.service.ProductService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 

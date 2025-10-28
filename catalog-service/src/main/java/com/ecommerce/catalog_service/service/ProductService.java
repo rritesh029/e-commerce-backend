@@ -1,7 +1,7 @@
 package com.ecommerce.catalog_service.service;
 
-import com.ecommerce.catalogservice.model.Product;
-import com.ecommerce.catalogservice.repository.ProductRepository;
+import com.ecommerce.catalog_service.model.Product;
+import com.ecommerce.catalog_service.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
